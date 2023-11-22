@@ -5,7 +5,15 @@
   让更多人使用、参与、贡献开源！
 </p>
 <p align="center">
-  <a href="![0](https://image-1305421143.cos.ap-nanjing.myqcloud.com/image/202210182220145.png)"><img src="https://img.shields.io/badge/Talk-%E5%BE%AE%E4%BF%A1%E7%BE%A4-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
+     <a href="https://github.com/UNIONDONG/linux-api-insides"><img alt="Static Badge" src="https://img.shields.io/badge/build-developing-red?logo=Github&logoColor=rgb"></a>
+<img alt="Static Badge" src="https://img.shields.io/badge/MPL2.0-LICENSE-blue?labelColor=red">
+<a href="https://image-1305421143.cos.ap-nanjing.myqcloud.com/image/202210182220145.png">
+ 	<img src="https://img.shields.io/badge/Talk-%E5%BE%AE%E4%BF%A1%E7%BE%A4-brightgreen.svg?style=popout-square" alt="WeiXin">
+</a>
+</p>
+
+
+
 
 ## 介绍
 
@@ -21,7 +29,7 @@
 
 ### 驱动相关
 
-- `module_init`与`module_exit`
+- [module_init与module_exit](https://github.com/UNIONDONG/linux-api-insides/Articles/Drivers/【Linux API 揭秘】module_init与module_exit.md)
 
 
 
