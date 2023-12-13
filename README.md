@@ -30,7 +30,7 @@
 ### 驱动相关
 
 - [module_init与module_exit](https://github.com/UNIONDONG/linux-api-insides/blob/main/Articals/Drivers/%E3%80%90Linux%20API%20%E6%8F%AD%E7%A7%98%E3%80%91module_init%E4%B8%8Emodule_exit.md)
-
+- [container_of函数详解](https://github.com/UNIONDONG/linux-api-insides/blob/main/Articals/Drivers/【Linux API 揭秘】container_of函数详解.md)
 
 
 ## 贡献者
